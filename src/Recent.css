@@ -1,0 +1,64 @@
+.recent-comp {
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.first-comp {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+}
+.icons {
+  margin-left: 350px;
+}
+.first-comp .text {
+  font-weight: bold;
+  color: rgb(38, 14, 173);
+  font-size: 20px;
+}
+.second-comp {
+  display: flex;
+  flex-direction: row;
+  border-radius: 10px;
+  padding: 15px;
+  align-items: center;
+}
+
+.third-comp {
+  display: flex;
+  flex-direction: row;
+  border-radius: 10px;
+  padding: 15px;
+  align-items: center;
+}
+.fourth-comp {
+  display: flex;
+  flex-direction: row;
+  border-radius: 10px;
+  padding: 15px;
+  align-items: center;
+}
+.far-text {
+  float: right;
+  margin-left: 500px;
+  margin-right: 0px;
+  color: rgb(38, 14, 173);
+}
+.text {
+  color: rgb(38, 14, 173);
+  font-size: 17px;
+}
+
+.second-comp:hover {
+  background-color: rgba(159, 152, 196, 0.2);
+}
+
+.third-comp:hover {
+  background-color: rgba(159, 152, 196, 0.2);
+}
+.fourth-comp:hover {
+  background-color: rgba(159, 152, 196, 0.2);
+}

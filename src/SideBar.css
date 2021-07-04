@@ -1,0 +1,53 @@
+.sideBar {
+  display: flex;
+  flex-direction: column;
+  border-radius: 0px 70px 0px 0px;
+  margin-top: 50px;
+  height: 100%;
+  width: 250px;
+  background-color: rgb(47, 28, 151);
+}
+
+.data {
+  font-weight: bold;
+  font-size: 20px;
+  margin: 30px 20px 10px 50px;
+  color: rgba(223, 213, 213, 0.5);
+}
+
+.data:hover {
+  cursor: pointer;
+  color: white;
+}
+
+.upgrade {
+  margin: 200px 20px 20px 20px;
+  height: 150px;
+  border-radius: 30px;
+  background-color: rgb(170, 206, 129);
+}
+
+.text1 {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  margin: 20px 20px 0px;
+}
+.text2 {
+  margin-left: 20px;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.last1 {
+  font-weight: bold;
+  font-size: 20px;
+  margin: 30px 0px 0px 50px;
+  color: white;
+}
+
+.last2 {
+  font-weight: bold;
+  font-size: 15px;
+  margin: 0px 20px 10px 50px;
+  color: rgba(223, 213, 213, 0.5);
+}

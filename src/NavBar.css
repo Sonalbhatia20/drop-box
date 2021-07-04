@@ -1,0 +1,23 @@
+.NavBar {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.nav1 {
+  margin-left: 40px;
+  margin-top: 20px;
+}
+.nav2 {
+  width: 500px;
+  height: 50px;
+  margin-left: 450px;
+  margin-top: 40px;
+  background-color: rgba(161, 208, 214, 0.4);
+  padding-left: 10px;
+  padding-top: 5px;
+  border-radius: 30px;
+}
+.nav3 {
+  margin-left: 300px;
+  margin-top: 40px;
+}
